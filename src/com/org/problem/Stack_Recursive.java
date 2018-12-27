@@ -12,7 +12,6 @@ public class Stack_Recursive {
         stack.push(2);
         stack.push(3);
         stack.forEach(System.out::println);
-        //getAndRemoveLastElement(stack);
         reverse(stack);
         stack.forEach(System.out::println);
     }
