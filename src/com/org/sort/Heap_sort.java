@@ -18,6 +18,7 @@ public class Heap_sort {
 
     }
     public void adjustHeap(Integer[] arr,int i,int j){
+        int c=i;
 
     }
 }
