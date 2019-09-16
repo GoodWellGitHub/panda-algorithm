@@ -1,6 +1,8 @@
 package com.org.data.xiajiayu.factory;
 
 public class NodeFactory {
+    private static Node temp = null;
+
     public static Node getLineNode() {
         Node node = new Node(1, null);
         Node node1 = new Node(4, node);
@@ -26,4 +28,13 @@ public class NodeFactory {
             temp = temp.getNext();
         }
     }
+
+    public static Node circleNode(int n) {
+        for (int i = n; i >= 1; i--) {
+            Node node = new Node(i, temp);
+            temp = node;
+        }
+        return temp;
+    }
+
 }

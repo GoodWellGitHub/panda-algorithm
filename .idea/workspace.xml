@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548b5580-9309-4696-b715-66a66d6cb0cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/org/data/xiajiayu/line/FindLineMid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/factory/domain/NodeNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/data/xiajiayu/line/JosePlus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/factory/NodeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/factory/NodeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/NodeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/NodeFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/factory/ListUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/org/factory/NodeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+            <state relative-caret-position="174">
+              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/ReverseNodeHeadInsert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="120">
               <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -70,17 +60,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/NodeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="30">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/JosePlus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/FindLineMid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,18 +111,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/org/factory/domain/NodeNext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="195">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
               <folding>
+                <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,7 +149,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/NodeFactory.java" />
         <option value="$PROJECT_DIR$/src/com/org/data/xiajiayu/line/ReverseNodeHeadInsert.java" />
         <option value="$PROJECT_DIR$/src/com/org/data/datastruandalgorith/recursion/Hanoi.java" />
         <option value="$PROJECT_DIR$/src/com/org/data/datastruandalgorith/recursion/Power.java" />
@@ -160,23 +156,23 @@
         <option value="$PROJECT_DIR$/src/com/org/data/datastruandalgorith/recursion/BoolCombination.java" />
         <option value="$PROJECT_DIR$/src/com/org/data/datastruandalgorith/recursion/SimPleMinMax.java" />
         <option value="$PROJECT_DIR$/src/com/org/factory/domain/NodeNext.java" />
-        <option value="$PROJECT_DIR$/src/com/org/factory/NodeFactory.java" />
         <option value="$PROJECT_DIR$/src/com/org/data/xiajiayu/line/FindLineMid.java" />
+        <option value="$PROJECT_DIR$/src/com/org/factory/NodeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/NodeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/org/data/xiajiayu/line/JosePlus.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="806" />
+    <option name="width" value="1680" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,7 +204,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="org" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="xiajiayu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="panda-algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -217,6 +213,7 @@
               <item name="org" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="xiajiayu" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="panda-algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -227,31 +224,18 @@
               <item name="xiajiayu" type="462c0819:PsiDirectoryNode" />
               <item name="line" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="panda-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panda-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="panda-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panda-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562172338904" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568552021951" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -265,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindLineMid">
+  <component name="RunManager" selected="Application.JosePlus">
     <configuration name="BoolCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.org.data.datastruandalgorith.recursion.BoolCombination" />
       <module name="panda-algorithm" />
@@ -305,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.data.datastruandalgorith.recursion.Power" />
+    <configuration name="JosePlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.data.xiajiayu.line.JosePlus" />
       <module name="panda-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.data.datastruandalgorith.recursion.*" />
+          <option name="PATTERN" value="com.org.data.xiajiayu.line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JosePlus" />
         <item itemvalue="Application.FindLineMid" />
         <item itemvalue="Application.SimPleMinMax" />
         <item itemvalue="Application.BoolCombination" />
         <item itemvalue="Application.Hanoi" />
-        <item itemvalue="Application.Power" />
       </list>
     </recent_temporary>
   </component>
@@ -354,18 +338,19 @@
       <workItem from="1553613335115" duration="1869000" />
       <workItem from="1561000455387" duration="7863000" />
       <workItem from="1561513728902" duration="63000" />
-      <workItem from="1562170048332" duration="1954000" />
+      <workItem from="1562170048332" duration="2199000" />
+      <workItem from="1568541983574" duration="820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11749000" />
+    <option name="totallyTimeSpent" value="12814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,7 +362,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49194548" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13011153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,7 +370,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48079306" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5402726" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
@@ -403,18 +388,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/NodeFactory.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -563,31 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/factory/domain/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/factory/domain/NodeNext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/NodeUnion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -597,7 +545,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/ReverseNodeHeadInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="120">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -612,6 +560,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/FindLineMid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/factory/domain/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/factory/domain/NodeNext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/factory/NodeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -621,25 +609,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/factory/NodeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/factory/NodeFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/JosePlus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/data/xiajiayu/line/FindLineMid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
