@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+/**
+ * 输入一个链表，按链表从尾到头的顺序返回一个ArrayList。
+ */
 public class LinkReverse {
     public static void main(String[] args) {
         NodeNext nodeNext= NodeFactory.rootNext();
