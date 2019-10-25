@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548b5580-9309-4696-b715-66a66d6cb0cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,13 +26,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+            <state relative-caret-position="1395">
+              <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
               <folding>
-                <element signature="e#471#472#0" expanded="true" />
                 <element signature="e#494#495#0" expanded="true" />
                 <element signature="e#527#528#0" expanded="true" />
                 <element signature="e#554#555#0" expanded="true" />
@@ -47,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+            <state relative-caret-position="238">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -170,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReplaceCharWithString.java" />
         <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/LinkReverse.java" />
         <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java" />
       </list>
     </option>
   </component>
@@ -240,7 +240,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571741704923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571969679969" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,26 +254,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PreMidBuildBinaryTree">
+  <component name="RunManager" selected="Application.ReverseArrayFindMin">
     <configuration name="ArrayFindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.org.niuke.swordtooffer.ArrayFindNumber" />
       <module name="panda-algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.org.niuke.swordtooffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindLineMid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.data.xiajiayu.line.FindLineMid" />
-      <module name="panda-algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.data.xiajiayu.line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,13 +307,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseArrayFindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.niuke.swordtooffer.ReverseArrayFindMin" />
+      <module name="panda-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.niuke.swordtooffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArrayFindMin" />
         <item itemvalue="Application.PreMidBuildBinaryTree" />
         <item itemvalue="Application.LinkReverse" />
         <item itemvalue="Application.ArrayFindNumber" />
         <item itemvalue="Application.JosePlus" />
-        <item itemvalue="Application.FindLineMid" />
       </list>
     </recent_temporary>
   </component>
@@ -346,15 +346,16 @@
       <workItem from="1562170048332" duration="2199000" />
       <workItem from="1568541983574" duration="895000" />
       <workItem from="1571386890684" duration="3064000" />
-      <workItem from="1571646529956" duration="4585000" />
+      <workItem from="1571646529956" duration="6638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20538000" />
+    <option name="totallyTimeSpent" value="22591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -368,8 +369,8 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3952912" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43742254" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3952912" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44857496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -737,10 +738,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        <state relative-caret-position="1395">
+          <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
           <folding>
-            <element signature="e#471#472#0" expanded="true" />
             <element signature="e#494#495#0" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#554#555#0" expanded="true" />
@@ -751,6 +751,13 @@
             <element signature="e#734#735#0" expanded="true" />
             <element signature="e#768#769#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
