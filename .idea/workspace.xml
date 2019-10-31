@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548b5580-9309-4696-b715-66a66d6cb0cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloorII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,51 +17,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/LinkReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="256">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1395">
-              <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-              <folding>
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloorII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3195">
-              <caret line="247" column="37" selection-start-line="247" selection-start-column="26" selection-end-line="247" selection-end-column="37" />
+            <state relative-caret-position="271">
+              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -170,18 +158,24 @@
         <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/LinkReverse.java" />
         <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java" />
+        <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloor.java" />
+        <option value="$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloorII.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="-1680" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,14 +227,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571969679969" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572512614740" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -346,18 +338,19 @@
       <workItem from="1562170048332" duration="2199000" />
       <workItem from="1568541983574" duration="895000" />
       <workItem from="1571386890684" duration="3064000" />
-      <workItem from="1571646529956" duration="6638000" />
+      <workItem from="1571646529956" duration="6682000" />
+      <workItem from="1572491596848" duration="1578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22591000" />
+    <option name="totallyTimeSpent" value="24213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-1680" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1947497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,7 +362,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3952912" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3952912" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44857496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +370,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15861215" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.492163" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
@@ -667,6 +660,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/LinkReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+          <folding>
+            <element signature="e#2914#2915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3195">
@@ -726,38 +739,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/LinkReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/PreMidBuildBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-          <folding>
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/ReverseArrayFindMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="256">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/niuke/swordtooffer/FrogJumpFloorII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
         </state>
       </provider>
     </entry>
