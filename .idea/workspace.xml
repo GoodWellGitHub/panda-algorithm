@@ -2,121 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1620aa-9c5d-4363-87ec-6e09b32c8608" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/FindFirstLeftTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/ListNodeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/ReverseLinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/SortArrayFindTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/traverse/Binary_Tree_Traverse_Deep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/traverse/Binary_Tree_Traverse_Deep.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/search/Binary_Search.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="90" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/sort/Quick_sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/sort/bubble_sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/sort/Merge_sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/factory/ListUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/factory/domain/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-              <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/factory/NodeFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/org/traverse/Binary_Tree_Traverse_Deep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="110" selection-start-line="110" selection-end-line="110" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/traverse/Binary_Tree_Traverse_Width.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,22 +30,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/org/search/Binary_Search.java" />
-        <option value="$PROJECT_DIR$/src/com/org/factory/ListUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/org/sort/Quick_sort.java" />
-        <option value="$PROJECT_DIR$/src/com/org/sort/bubble_sort.java" />
-        <option value="$PROJECT_DIR$/src/com/org/sort/Merge_sort.java" />
-        <option value="$PROJECT_DIR$/src/com/org/factory/domain/Node.java" />
-        <option value="$PROJECT_DIR$/src/com/org/factory/NodeFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/org/traverse/Binary_Tree_Traverse.java" />
-        <option value="$PROJECT_DIR$/src/com/org/traverse/Binary_Tree_Traverse_Width.java" />
-        <option value="$PROJECT_DIR$/src/com/org/traverse/Binary_Tree_Traverse_Deep.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -157,21 +38,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1a4C6fCHXze17WlHI2vq0udre4E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -180,19 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Quick_sort">
+  <component name="RunManager" selected="Application.FindFirstLeftTarget">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -254,13 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.sort.Merge_sort" />
+    <configuration name="FindFirstLeftTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.niuke.FindFirstLeftTarget" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.sort.*" />
+          <option name="PATTERN" value="com.org.niuke.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,13 +128,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quick_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.sort.Quick_sort" />
+    <configuration name="ReverseLinkNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.niuke.ReverseLinkNode" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.sort.*" />
+          <option name="PATTERN" value="com.org.niuke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArrayFindTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.niuke.SortArrayFindTarget" />
+      <module name="panda-algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.niuke.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,26 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bubble_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.sort.bubble_sort" />
-      <module name="panda-algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
@@ -320,6 +181,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <properties />
@@ -332,12 +194,14 @@
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -378,6 +242,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -404,19 +269,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Quick_sort" />
-      <item itemvalue="Application.bubble_sort" />
-      <item itemvalue="Application.Merge_sort" />
       <item itemvalue="Application.Binary_Tree_Traverse_Deep" />
       <item itemvalue="Application.Binary_Tree_Traverse_Width" />
+      <item itemvalue="Application.SortArrayFindTarget" />
+      <item itemvalue="Application.ReverseLinkNode" />
+      <item itemvalue="Application.FindFirstLeftTarget" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindFirstLeftTarget" />
+        <item itemvalue="Application.ReverseLinkNode" />
+        <item itemvalue="Application.SortArrayFindTarget" />
         <item itemvalue="Application.Binary_Tree_Traverse_Deep" />
         <item itemvalue="Application.Binary_Tree_Traverse_Width" />
-        <item itemvalue="Application.Merge_sort" />
-        <item itemvalue="Application.bubble_sort" />
-        <item itemvalue="Application.Quick_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -432,143 +297,66 @@
       <updated>1544871877123</updated>
       <workItem from="1544871880992" duration="9824000" />
       <workItem from="1552319508935" duration="51000" />
+      <workItem from="1585985307481" duration="6650000" />
+      <workItem from="1586223446801" duration="139000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9875000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3204578" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Nl-Palette" order="7" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28921568" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39950982" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Properties" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="BPMNPalette" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="225" key="GridCell.Tab.0.bottom" timestamp="1586097135870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586097135870" />
+    <state width="1322" height="225" key="GridCell.Tab.0.center" timestamp="1586097135870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586097135870" />
+    <state width="1322" height="225" key="GridCell.Tab.0.left" timestamp="1586097135869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586097135869" />
+    <state width="1322" height="225" key="GridCell.Tab.0.right" timestamp="1586097135870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586097135870" />
+    <state width="1322" height="154" key="GridCell.Tab.1.bottom" timestamp="1586097081858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="154" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
+    <state width="1322" height="154" key="GridCell.Tab.1.center" timestamp="1586097081858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="154" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
+    <state width="1322" height="154" key="GridCell.Tab.1.left" timestamp="1586097081857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="154" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586097081857" />
+    <state width="1322" height="154" key="GridCell.Tab.1.right" timestamp="1586097081858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="154" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/niuke/SortArrayFindTarget.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/niuke/SortArrayFindTarget.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/org/search/Binary_Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="90" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/sort/Quick_sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/sort/bubble_sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/sort/Merge_sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/factory/ListUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/factory/domain/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/factory/NodeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/traverse/Binary_Tree_Traverse_Width.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/traverse/Binary_Tree_Traverse_Deep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
