@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e1620aa-9c5d-4363-87ec-6e09b32c8608" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/FindFirstLeftTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/ListNodeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/ReverseLinkNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/SortArrayFindTarget.java" afterDir="false" />
+    <list default="true" id="7e1620aa-9c5d-4363-87ec-6e09b32c8608" name="Default" comment="x">
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/binaryfind/BinaryFindNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/binaryfind/InitCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/search/StrContainsAimStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/traverse/Binary_Tree_Traverse_Deep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/traverse/Binary_Tree_Traverse_Deep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/niuke/FindFirstLeftTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/niuke/FindFirstLeftTarget.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.FindFirstLeftTarget">
+  <component name="RunManager" selected="Application.StrContainsAimStr">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -86,27 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Binary_Tree_Traverse_Deep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.traverse.Binary_Tree_Traverse_Deep" />
+    <configuration name="BinaryFindNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.other.binaryfind.BinaryFindNum" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.traverse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Binary_Tree_Traverse_Width" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.traverse.Binary_Tree_Traverse_Width" />
-      <module name="panda-algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.traverse.*" />
+          <option name="PATTERN" value="com.org.other.binaryfind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,6 +133,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.org.niuke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrContainsAimStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.search.StrContainsAimStr" />
+      <module name="panda-algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,19 +267,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Binary_Tree_Traverse_Deep" />
-      <item itemvalue="Application.Binary_Tree_Traverse_Width" />
       <item itemvalue="Application.SortArrayFindTarget" />
       <item itemvalue="Application.ReverseLinkNode" />
       <item itemvalue="Application.FindFirstLeftTarget" />
+      <item itemvalue="Application.BinaryFindNum" />
+      <item itemvalue="Application.StrContainsAimStr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrContainsAimStr" />
+        <item itemvalue="Application.BinaryFindNum" />
         <item itemvalue="Application.FindFirstLeftTarget" />
         <item itemvalue="Application.ReverseLinkNode" />
         <item itemvalue="Application.SortArrayFindTarget" />
-        <item itemvalue="Application.Binary_Tree_Traverse_Deep" />
-        <item itemvalue="Application.Binary_Tree_Traverse_Width" />
       </list>
     </recent_temporary>
   </component>
@@ -299,29 +297,54 @@
       <workItem from="1552319508935" duration="51000" />
       <workItem from="1585985307481" duration="6650000" />
       <workItem from="1586223446801" duration="139000" />
+      <workItem from="1586513663515" duration="553000" />
+      <workItem from="1586763250764" duration="5773000" />
+      <workItem from="1586828468086" duration="580000" />
+      <workItem from="1586914646357" duration="614000" />
+      <workItem from="1586958986152" duration="3630000" />
     </task>
+    <task id="LOCAL-00001" summary="x">
+      <created>1586513736686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586513736686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="x" />
+    <option name="LAST_COMMIT_MESSAGE" value="x" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="225" key="GridCell.Tab.0.bottom" timestamp="1586097135870">
+    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1586513732664">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586513732664" />
+    <state width="1322" height="60" key="GridCell.Tab.0.bottom" timestamp="1586962342010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586097135870" />
-    <state width="1322" height="225" key="GridCell.Tab.0.center" timestamp="1586097135870">
+    <state width="1220" height="225" key="GridCell.Tab.0.bottom/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
+    <state width="1322" height="60" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586962342010" />
+    <state width="1322" height="60" key="GridCell.Tab.0.center" timestamp="1586962342009">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586097135870" />
-    <state width="1322" height="225" key="GridCell.Tab.0.left" timestamp="1586097135869">
+    <state width="1220" height="225" key="GridCell.Tab.0.center/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
+    <state width="1322" height="60" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586962342009" />
+    <state width="1322" height="60" key="GridCell.Tab.0.left" timestamp="1586962342009">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586097135869" />
-    <state width="1322" height="225" key="GridCell.Tab.0.right" timestamp="1586097135870">
+    <state width="1220" height="225" key="GridCell.Tab.0.left/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
+    <state width="1322" height="60" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586962342009" />
+    <state width="1322" height="60" key="GridCell.Tab.0.right" timestamp="1586962342010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586097135870" />
+    <state width="1220" height="225" key="GridCell.Tab.0.right/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
+    <state width="1322" height="60" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586962342010" />
     <state width="1322" height="154" key="GridCell.Tab.1.bottom" timestamp="1586097081858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -338,6 +361,15 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="154" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
+    <state x="232" y="99" key="Vcs.Push.Dialog.v2" timestamp="1586513776240">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="232" y="99" key="Vcs.Push.Dialog.v2/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586513776240" />
+    <state x="354" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586959049128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="332" y="190" key="com.intellij.ide.util.TipDialog/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586829232693" />
+    <state x="354" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586959049128" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

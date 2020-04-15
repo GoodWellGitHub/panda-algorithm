@@ -3,7 +3,7 @@ package com.org.niuke;
 public class FindFirstLeftTarget {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 2, 2, 3};
-        System.out.println(left_bound(numbers, 4));
+        System.out.println(left_bound(numbers, 13));
     }
 
     static int left_bound(int[] numbers, int target) {
