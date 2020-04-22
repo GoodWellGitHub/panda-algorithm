@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1620aa-9c5d-4363-87ec-6e09b32c8608" name="Default" comment="x">
-      <change afterPath="$PROJECT_DIR$/src/com/org/other/binaryfind/BinaryFindNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/other/binaryfind/InitCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/search/StrContainsAimStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/binaryfind/ArrNFindNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/binaryfind/FindMissPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/link/DeweightArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/link/FindLastKNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/stackQueue/FindOutStackOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/other/stringmatch/SimpleMatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/niuke/FindFirstLeftTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/niuke/FindFirstLeftTarget.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.StrContainsAimStr">
+  <component name="RunManager" selected="Application.FindOutStackOrder">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -84,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryFindNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.other.binaryfind.BinaryFindNum" />
+    <configuration name="ArrNFindNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.other.binaryfind.ArrNFindNum" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -98,13 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstLeftTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.niuke.FindFirstLeftTarget" />
+    <configuration name="FindIndexNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.other.binaryfind.FindIndexNum" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.niuke.*" />
+          <option name="PATTERN" value="com.org.other.binaryfind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.niuke.ReverseLinkNode" />
+    <configuration name="FindMissPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.other.binaryfind.FindMissPositive" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.niuke.*" />
+          <option name="PATTERN" value="com.org.other.binaryfind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayFindTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.niuke.SortArrayFindTarget" />
+    <configuration name="FindOutStackOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.other.stackQueue.FindOutStackOrder" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.niuke.*" />
+          <option name="PATTERN" value="com.org.other.stackQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,13 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrContainsAimStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.search.StrContainsAimStr" />
+    <configuration name="SimpleMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.other.stringmatch.SimpleMatch" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.search.*" />
+          <option name="PATTERN" value="com.org.other.stringmatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,19 +270,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.SortArrayFindTarget" />
-      <item itemvalue="Application.ReverseLinkNode" />
-      <item itemvalue="Application.FindFirstLeftTarget" />
-      <item itemvalue="Application.BinaryFindNum" />
-      <item itemvalue="Application.StrContainsAimStr" />
+      <item itemvalue="Application.SimpleMatch" />
+      <item itemvalue="Application.FindIndexNum" />
+      <item itemvalue="Application.ArrNFindNum" />
+      <item itemvalue="Application.FindMissPositive" />
+      <item itemvalue="Application.FindOutStackOrder" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StrContainsAimStr" />
-        <item itemvalue="Application.BinaryFindNum" />
-        <item itemvalue="Application.FindFirstLeftTarget" />
-        <item itemvalue="Application.ReverseLinkNode" />
-        <item itemvalue="Application.SortArrayFindTarget" />
+        <item itemvalue="Application.FindOutStackOrder" />
+        <item itemvalue="Application.FindMissPositive" />
+        <item itemvalue="Application.ArrNFindNum" />
+        <item itemvalue="Application.FindIndexNum" />
+        <item itemvalue="Application.SimpleMatch" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +304,15 @@
       <workItem from="1586763250764" duration="5773000" />
       <workItem from="1586828468086" duration="580000" />
       <workItem from="1586914646357" duration="614000" />
-      <workItem from="1586958986152" duration="3630000" />
+      <workItem from="1586958986152" duration="3707000" />
+      <workItem from="1587097040391" duration="3859000" />
+      <workItem from="1587120280535" duration="305000" />
+      <workItem from="1587125189301" duration="585000" />
+      <workItem from="1587203119053" duration="3615000" />
+      <workItem from="1587346958864" duration="118000" />
+      <workItem from="1587356781302" duration="1305000" />
+      <workItem from="1587370560624" duration="847000" />
+      <workItem from="1587431245274" duration="24570000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <created>1586513736686</created>
@@ -310,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586513736686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="x">
+      <created>1586963124618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586963124618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,55 +339,73 @@
     <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1586513732664">
-      <screen x="0" y="0" width="1280" height="728" />
+    <state x="1712" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1587099940697">
+      <screen x="1280" y="0" width="1280" height="768" />
+    </state>
+    <state x="1712" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587099940697" />
+    <state x="233" y="0" key="CommitChangelistDialog2" timestamp="1586963120976">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586513732664" />
-    <state width="1322" height="60" key="GridCell.Tab.0.bottom" timestamp="1586962342010">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="233" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586963120976" />
+    <state width="1236" height="257" key="GridCell.Tab.0.bottom" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
-    <state width="1220" height="225" key="GridCell.Tab.0.bottom/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
-    <state width="1322" height="60" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586962342010" />
-    <state width="1322" height="60" key="GridCell.Tab.0.center" timestamp="1586962342009">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1236" height="240" key="GridCell.Tab.0.bottom/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
+    <state width="1236" height="257" key="GridCell.Tab.0.bottom/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
+    <state width="1322" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1236" height="257" key="GridCell.Tab.0.center" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
-    <state width="1220" height="225" key="GridCell.Tab.0.center/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
-    <state width="1322" height="60" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586962342009" />
-    <state width="1322" height="60" key="GridCell.Tab.0.left" timestamp="1586962342009">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1236" height="240" key="GridCell.Tab.0.center/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
+    <state width="1236" height="257" key="GridCell.Tab.0.center/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
+    <state width="1322" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1236" height="257" key="GridCell.Tab.0.left" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
-    <state width="1220" height="225" key="GridCell.Tab.0.left/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
-    <state width="1322" height="60" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586962342009" />
-    <state width="1322" height="60" key="GridCell.Tab.0.right" timestamp="1586962342010">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1236" height="240" key="GridCell.Tab.0.left/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
+    <state width="1236" height="257" key="GridCell.Tab.0.left/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
+    <state width="1322" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1236" height="257" key="GridCell.Tab.0.right" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
-    <state width="1220" height="225" key="GridCell.Tab.0.right/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1586768868671" />
-    <state width="1322" height="60" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586962342010" />
-    <state width="1322" height="154" key="GridCell.Tab.1.bottom" timestamp="1586097081858">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1236" height="240" key="GridCell.Tab.0.right/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
+    <state width="1236" height="257" key="GridCell.Tab.0.right/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
+    <state width="1322" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1236" height="257" key="GridCell.Tab.1.bottom" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
+    <state width="1236" height="240" key="GridCell.Tab.1.bottom/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002484" />
+    <state width="1236" height="257" key="GridCell.Tab.1.bottom/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
     <state width="1322" height="154" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
-    <state width="1322" height="154" key="GridCell.Tab.1.center" timestamp="1586097081858">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1236" height="257" key="GridCell.Tab.1.center" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
+    <state width="1236" height="240" key="GridCell.Tab.1.center/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
+    <state width="1236" height="257" key="GridCell.Tab.1.center/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
     <state width="1322" height="154" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
-    <state width="1322" height="154" key="GridCell.Tab.1.left" timestamp="1586097081857">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1236" height="257" key="GridCell.Tab.1.left" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
+    <state width="1236" height="240" key="GridCell.Tab.1.left/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
+    <state width="1236" height="257" key="GridCell.Tab.1.left/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
     <state width="1322" height="154" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586097081857" />
-    <state width="1322" height="154" key="GridCell.Tab.1.right" timestamp="1586097081858">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1236" height="257" key="GridCell.Tab.1.right" timestamp="1587549045534">
+      <screen x="1280" y="0" width="1280" height="768" />
     </state>
+    <state width="1236" height="240" key="GridCell.Tab.1.right/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
+    <state width="1236" height="257" key="GridCell.Tab.1.right/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587549045534" />
     <state width="1322" height="154" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
-    <state x="232" y="99" key="Vcs.Push.Dialog.v2" timestamp="1586513776240">
-      <screen x="0" y="0" width="1280" height="728" />
+    <state x="248" y="99" key="Vcs.Push.Dialog.v2" timestamp="1586963137422">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="232" y="99" key="Vcs.Push.Dialog.v2/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586513776240" />
-    <state x="354" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586959049128">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="248" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586963137422" />
+    <state x="333" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1587431688268">
+      <screen x="0" y="0" width="1280" height="728" />
     </state>
-    <state x="332" y="190" key="com.intellij.ide.util.TipDialog/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586829232693" />
-    <state x="354" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586959049128" />
+    <state x="333" y="190" key="com.intellij.ide.util.TipDialog/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587431688268" />
+    <state x="354" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587203451016" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,6 +419,86 @@
           <url>file://$PROJECT_DIR$/src/com/org/niuke/SortArrayFindTarget.java</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/FindIndexNum.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/binaryfind/ArrNFindNum.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/stackQueue/FindOutStackOrder.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/stackQueue/FindOutStackOrder.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/stackQueue/FindOutStackOrder.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/other/stackQueue/FindOutStackOrder.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
