@@ -41,6 +41,26 @@ public class LinkNodeFactory {
         return node;
     }
 
+    public static LinkNode getCircleLink() {
+        LinkNode node = new LinkNode(10);
+        LinkNode node1 = new LinkNode(15);
+        LinkNode node2 = new LinkNode(20);
+        LinkNode node3 = new LinkNode(24);
+        LinkNode node4 = new LinkNode(32);
+        LinkNode node5 = new LinkNode(41);
+        LinkNode node6 = new LinkNode(49);
+
+        node.setNext(node1);
+        node1.setNext(node2);
+        node2.setNext(node3);
+        node3.setNext(node4);
+        node4.setNext(node5);
+        node5.setNext(node6);
+        node6.setNext(node3);
+
+        return node;
+    }
+
     public static void traceLink(LinkNode node) {
         LinkNode traceNode = node;
         while (traceNode != null) {
