@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1620aa-9c5d-4363-87ec-6e09b32c8608" name="Default" comment="x">
-      <change afterPath="$PROJECT_DIR$/src/com/org/leetcode/FindTowArrMid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/leetcode/DeleteLastNLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/leetcode/ShenZuiDuoShuiRongQi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/sort/MergeReverseNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/niuke/DyFindMinMaxtrim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/niuke/DyFindMinMaxtrim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/niuke/DyStr1ReplaceStr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/niuke/DyStr1ReplaceStr2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/niuke/DyFindMinMaxtrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/niuke/DyFindMinMaxtrim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/niuke/DyStr1ReplaceStr2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/niuke/DyStr1ReplaceStr2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Application.DyStr1ReplaceStr2">
+  <component name="RunManager" selected="Application.ShenZuiDuoShuiRongQi">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -99,48 +96,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DyFindLastSubList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.niuke.DyFindLastSubList" />
-      <module name="panda-algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.niuke.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DyFindTowStrMaxSubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.niuke.DyFindTowStrMaxSubStr" />
-      <module name="panda-algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.niuke.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DyPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.niuke.DyPackage" />
-      <module name="panda-algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.niuke.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DyStr1ReplaceStr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.org.niuke.DyStr1ReplaceStr2" />
       <module name="panda-algorithm" />
@@ -162,6 +117,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeReverseNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.sort.MergeReverseNums" />
+      <module name="panda-algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.sort.Merge_sort" />
+      <module name="panda-algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShenZuiDuoShuiRongQi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.leetcode.ShenZuiDuoShuiRongQi" />
+      <module name="panda-algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +279,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.DyFindLastSubList" />
-      <item itemvalue="Application.DyFindTowStrMaxSubStr" />
-      <item itemvalue="Application.DyPackage" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DyStr1ReplaceStr2" />
+      <item itemvalue="Application.Merge_sort" />
+      <item itemvalue="Application.MergeReverseNums" />
+      <item itemvalue="Application.ShenZuiDuoShuiRongQi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShenZuiDuoShuiRongQi" />
+        <item itemvalue="Application.MergeReverseNums" />
+        <item itemvalue="Application.Merge_sort" />
         <item itemvalue="Application.DyStr1ReplaceStr2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DyPackage" />
-        <item itemvalue="Application.DyFindTowStrMaxSubStr" />
-        <item itemvalue="Application.DyFindLastSubList" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +327,9 @@
       <workItem from="1587867285561" duration="46000" />
       <workItem from="1587958390587" duration="12129000" />
       <workItem from="1588213096055" duration="598000" />
-      <workItem from="1588380623162" duration="26334000" />
+      <workItem from="1588380623162" duration="26927000" />
+      <workItem from="1588925825981" duration="2948000" />
+      <workItem from="1589076419031" duration="3484000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <created>1586513736686</created>
@@ -383,70 +382,86 @@
     </state>
     <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586513732664" />
     <state x="233" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586963120976" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1588584914738">
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom" timestamp="1589120698627">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.bottom/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
     <state width="1236" height="169" key="GridCell.Tab.0.bottom/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587625676936" />
     <state width="1322" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1398" height="310" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877603" />
     <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904012" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588584914738" />
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589120698627" />
     <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1588432427834" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1588584914735">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584320" />
+    <state width="1398" height="190" key="GridCell.Tab.0.center" timestamp="1589120698624">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.center/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
     <state width="1236" height="169" key="GridCell.Tab.0.center/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587625676936" />
     <state width="1322" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1398" height="310" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877602" />
     <state width="1638" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904011" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588584914735" />
+    <state width="1398" height="190" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589120698624" />
     <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1588432427833" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1588584914734">
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584319" />
+    <state width="1398" height="190" key="GridCell.Tab.0.left" timestamp="1589120698620">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.left/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
     <state width="1236" height="169" key="GridCell.Tab.0.left/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587625676935" />
     <state width="1322" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1398" height="310" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877600" />
     <state width="1638" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904010" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588584914734" />
+    <state width="1398" height="190" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589120698620" />
     <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1588432427832" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1588584914737">
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584318" />
+    <state width="1398" height="190" key="GridCell.Tab.0.right" timestamp="1589120698625">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.right/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
     <state width="1236" height="169" key="GridCell.Tab.0.right/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587625676936" />
     <state width="1322" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
+    <state width="1398" height="310" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877602" />
     <state width="1638" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904011" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588584914737" />
+    <state width="1398" height="190" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589120698625" />
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1588432427834" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1588584870554">
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584320" />
+    <state width="1398" height="310" key="GridCell.Tab.1.bottom" timestamp="1588931877606">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.1.bottom/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002484" />
     <state width="1236" height="257" key="GridCell.Tab.1.bottom/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587551234313" />
     <state width="1322" height="154" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
+    <state width="1398" height="310" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877606" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588584870554" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1588584870552">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584323" />
+    <state width="1398" height="310" key="GridCell.Tab.1.center" timestamp="1588931877604">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.1.center/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
     <state width="1236" height="257" key="GridCell.Tab.1.center/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587551234312" />
     <state width="1322" height="154" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
+    <state width="1398" height="310" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877604" />
     <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588584870552" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1588584870552">
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584322" />
+    <state width="1398" height="310" key="GridCell.Tab.1.left" timestamp="1588931877604">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.1.left/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
     <state width="1236" height="257" key="GridCell.Tab.1.left/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587551234312" />
     <state width="1322" height="154" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586097081857" />
+    <state width="1398" height="310" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877604" />
     <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588584870552" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1588584870553">
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584321" />
+    <state width="1398" height="310" key="GridCell.Tab.1.right" timestamp="1588931877605">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.1.right/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
     <state width="1236" height="257" key="GridCell.Tab.1.right/0.0.1280.728/1280.0.1280.768@1280.0.1280.768" timestamp="1587551234312" />
     <state width="1322" height="154" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586097081858" />
+    <state width="1398" height="310" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588931877605" />
     <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588584870553" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584322" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1588408759323">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -473,10 +488,11 @@
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
     <state x="1703" y="147" key="new project wizard/0.23.1440.877/1440.0.1680.1050@1440.0.1680.1050" timestamp="1588216017231" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588596903301">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1589123056832">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588596903301" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1588929328448" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1589123056832" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
