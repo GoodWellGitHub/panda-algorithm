@@ -20,15 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1620aa-9c5d-4363-87ec-6e09b32c8608" name="Default" comment="x">
-      <change afterPath="$PROJECT_DIR$/src/com/org/leetcode/ReverseKArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/FindMinAreaGift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/other/math/QuanPaiLie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/util/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/niuke/NumsSumCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/niuke/DyCoinFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/panda-algorithm/com/org/niuke/DyCoinFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/niuke/DyCoinFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/niuke/DyCoinFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/链接.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record/链接.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +60,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.NumsSumCount">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -142,13 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuanPaiLie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.other.math.QuanPaiLie" />
+    <configuration name="NumsSumCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.niuke.NumsSumCount" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.other.math.*" />
+          <option name="PATTERN" value="com.org.niuke.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,13 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseKArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.leetcode.ReverseKArr" />
+    <configuration name="QuanPaiLie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.other.math.QuanPaiLie" />
       <module name="panda-algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.leetcode.*" />
+          <option name="PATTERN" value="com.org.other.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,19 +277,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseKArr" />
       <item itemvalue="Application.FindMinAreaGift" />
       <item itemvalue="Application.QuanPaiLie" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DyCoinFind" />
+      <item itemvalue="Application.NumsSumCount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumsSumCount" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DyCoinFind" />
         <item itemvalue="Application.QuanPaiLie" />
         <item itemvalue="Application.FindMinAreaGift" />
-        <item itemvalue="Application.ReverseKArr" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +329,9 @@
       <workItem from="1588925825981" duration="2948000" />
       <workItem from="1589076419031" duration="3516000" />
       <workItem from="1589374896489" duration="968000" />
-      <workItem from="1589558524915" duration="7386000" />
+      <workItem from="1589558524915" duration="7418000" />
+      <workItem from="1590630139094" duration="746000" />
+      <workItem from="1592839797285" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <created>1586513736686</created>
@@ -388,7 +384,7 @@
     </state>
     <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1586513732664" />
     <state x="233" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586963120976" />
-    <state width="1398" height="126" key="GridCell.Tab.0.bottom" timestamp="1589849335790">
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom" timestamp="1590668161477">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.bottom/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
@@ -396,10 +392,10 @@
     <state width="1322" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
     <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1589789356143" />
     <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904012" />
-    <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589849335790" />
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590668161477" />
     <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1588432427834" />
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584320" />
-    <state width="1398" height="126" key="GridCell.Tab.0.center" timestamp="1589849335787">
+    <state width="1398" height="126" key="GridCell.Tab.0.center" timestamp="1590668161476">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.center/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
@@ -407,10 +403,10 @@
     <state width="1322" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
     <state width="1398" height="126" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1589789356140" />
     <state width="1638" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904011" />
-    <state width="1398" height="126" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589849335787" />
+    <state width="1398" height="126" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590668161476" />
     <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1588432427833" />
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584319" />
-    <state width="1398" height="126" key="GridCell.Tab.0.left" timestamp="1589849335787">
+    <state width="1398" height="126" key="GridCell.Tab.0.left" timestamp="1590668161476">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.left/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
@@ -418,10 +414,10 @@
     <state width="1322" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
     <state width="1398" height="126" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1589789356139" />
     <state width="1638" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904010" />
-    <state width="1398" height="126" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589849335787" />
+    <state width="1398" height="126" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590668161476" />
     <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1588432427832" />
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584318" />
-    <state width="1398" height="126" key="GridCell.Tab.0.right" timestamp="1589849335789">
+    <state width="1398" height="126" key="GridCell.Tab.0.right" timestamp="1590668161477">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1236" height="240" key="GridCell.Tab.0.right/0.0.1280.728/1280.0.1280.768@0.0.1280.728" timestamp="1587530002483" />
@@ -429,7 +425,7 @@
     <state width="1322" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587204769370" />
     <state width="1398" height="126" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1589789356142" />
     <state width="1638" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1587981904011" />
-    <state width="1398" height="126" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589849335789" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590668161477" />
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1588432427834" />
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.23.1440.830/1440.0.1680.1050@0.23.1440.830" timestamp="1588758584320" />
     <state width="1398" height="310" key="GridCell.Tab.1.bottom" timestamp="1588931877606">
